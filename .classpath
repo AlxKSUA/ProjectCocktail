@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/jgoodies-common-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/jgoodies-common-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jgoodies-common.jar"/>
+	<classpathentry kind="lib" path="lib/jgoodies-forms-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/jgoodies-forms-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jgoodies-forms.jar"/>
+	<classpathentry kind="lib" path="out/artifacts/Builders_jar/Builders.jar"/>
+	<classpathentry kind="lib" path="target/com.angelx.builder-1.0-SNAPSHOT-jar-with-dependencies.jar"/>
+	<classpathentry kind="lib" path="target/com.angelx.builder-1.0-SNAPSHOT.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
